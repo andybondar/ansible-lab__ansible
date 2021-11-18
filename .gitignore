@@ -1,2 +1,3 @@
 hosts.ini
 ansible.cfg
+gcp.yaml
